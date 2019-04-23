@@ -1,2 +1,2 @@
-# Projeto-Otimiza-o-RTIA--Bovespa
+# Projeto-Opt-RTIA--Bovespa
 Otimizar carteira via otimização multiobjetivo 🤑🤑🤑🤑🤑🤑
